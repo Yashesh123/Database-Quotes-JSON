@@ -21,3 +21,8 @@ $.getJSON(filePath).done(function (data) {
 	});
 });
 ```
+
+## Donation
+If this repo helps you, offer a coffee :) 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L8CWHQLA5A9K8)
