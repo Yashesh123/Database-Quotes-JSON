@@ -1,6 +1,6 @@
 # Database Quotes JSON
 
-## JSON file with more than 5000+ famous quotes
+## JSON file with more than 1500+ famous quotes
 
 ### Below there are some examples, using jQuery, on how to work with this file
 
