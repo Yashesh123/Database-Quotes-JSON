@@ -8,20 +8,20 @@
 // returns an array of all quotes with 12 words maximum
 var filePath = "quotes.json";
 $.getJSON(filePath)
-	.done(
-		data => data.filter(
-			object => object.quoteText.split(" ").length <= 12
-		)
-	)
+  .done(
+    data => data.filter(
+      object => object.quoteText.split(" ").length <= 12
+    )
+  )
 
 // returns an array of all quotes by Buddha
 var filePath = "quotes.json";
 $.getJSON(filePath)
-	.done(
-		data => data.filter(
-			object => object.quoteAuthor === "Buddha"
-		)
-	)
+  .done(
+    data => data.filter(
+      object => object.quoteAuthor === "Buddha"
+    )
+  )
 ```
 
 ## Donation
